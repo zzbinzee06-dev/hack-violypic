@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name        Toolkit VioEdu Violympic by Từ Hưng 8A2 pro vip (v12.4.3 Full + Quét đề OCR)
+// @name        Toolkit VioEdu Violympic by Từ Hưng 8A2 pro vip (v12.4.8 Full + Cập nhật từ xa + Quét đề OCR ảnh + Chụp không trắng + Kết nối ổn định)
 // @namespace   local.gemini.vio.redesigned.ultra
-// @version     12.4.3
-// @description Giữ nguyên v12.4 + Quét đề (OCR DOM) + Giới hạn thiết bị cho từng Key + Đăng xuất tất cả thiết bị khác
+// @version     12.4.8
+// @description big update
 // @match       https://vio.edu.vn/*
 // @match       https://www.vio.edu.vn/*
 // @match       https://violympic.vn/*
@@ -12,8 +12,14 @@
 // @grant       GM_getValue
 // @grant       GM_setValue
 // @grant       GM_deleteValue
+// @grant       GM_info
+// @grant       GM_openInTab
+// Khi đã host file script (GitHub raw / Greasy Fork), bỏ 1 dấu // ở 2 dòng dưới để Tampermonkey tự cập nhật:
+// // @updateURL    https://DOMAIN/ten-file.user.js
+// // @downloadURL  https://DOMAIN/ten-file.user.js
 // @connect     generativelanguage.googleapis.com
 // @connect     firebasedatabase.app
+// @connect     *
 // @run-at      document-idle
 // ==/UserScript==
 
