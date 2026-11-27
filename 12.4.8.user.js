@@ -14,9 +14,8 @@
 // @grant       GM_deleteValue
 // @grant       GM_info
 // @grant       GM_openInTab
-// Khi đã host file script (GitHub raw / Greasy Fork), bỏ 1 dấu // ở 2 dòng dưới để Tampermonkey tự cập nhật:
-// // @updateURL    https://DOMAIN/ten-file.user.js
-// // @downloadURL  https://DOMAIN/ten-file.user.js
+// @updateURL    https://raw.githubusercontent.com/zzbinzee06-dev/hack-violypic/main/12.4.8.user.js
+// @downloadURL  https://raw.githubusercontent.com/zzbinzee06-dev/hack-violypic/main/12.4.8.user.js
 // @connect     generativelanguage.googleapis.com
 // @connect     firebasedatabase.app
 // @connect     *
