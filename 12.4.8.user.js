@@ -14,8 +14,8 @@
 // @grant       GM_deleteValue
 // @grant       GM_info
 // @grant       GM_openInTab
-// @updateURL    https://raw.githubusercontent.com/zzbinzee06-dev/hack-violypic/main/12.4.8.user.js
-// @downloadURL  https://raw.githubusercontent.com/zzbinzee06-dev/hack-violypic/main/12.4.8.user.js
+// @updateURL   https://raw.githubusercontent.com/zzbinzee06-dev/hack-violypic/main/12.4.8.user.js
+// @downloadURL https://raw.githubusercontent.com/zzbinzee06-dev/hack-violypic/main/12.4.8.user.js
 // @connect     generativelanguage.googleapis.com
 // @connect     firebasedatabase.app
 // @connect     *
